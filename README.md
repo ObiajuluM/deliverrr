@@ -2,6 +2,8 @@
 
 A simple food delivery app built with **Flutter** and **Firebase**. This app allows users to browse restaurants, add items to their cart, place orders, and track their deliveries in real time.
 
+Inspired by [Mitch Koko](https://github.com/mitchkoko)
+
 ## ✨ Features [Current and Upcoming]
 
 - 🔍 Browse restaurants and menu items
@@ -19,7 +21,6 @@ A simple food delivery app built with **Flutter** and **Firebase**. This app all
 ![Food Screen](media/food.jpg)
 ![Receipt Screen](media/receipt.jpg)
 
-[Add screenshots here]
 
 ## 🛠️ Tech Stack
 
