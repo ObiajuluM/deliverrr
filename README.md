@@ -14,6 +14,10 @@ A simple food delivery app built with **Flutter** and **Firebase**. This app all
 - 🔔 Push notifications for order updates
 
 ## 📸 Screenshots
+![Home Screen](media/home.jpg)
+![CheckOut Screen](media/checkout.jpg)
+![Food Screen](media/food.jpg)
+![Receipt Screen](media/receipt.jpg)
 
 [Add screenshots here]
 
